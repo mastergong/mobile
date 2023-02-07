@@ -1,0 +1,5 @@
+https://medium.com/codechai/fetch-parse-and-mock-test-in-flutter-2fbbdcd6457c
+
+https://medium.com/codechai/mocking-http-request-in-flutter-c2596eea55f2
+
+https://betterprogramming.pub/flutter-unit-testing-the-beginners-guide-35105164722e
