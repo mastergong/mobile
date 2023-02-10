@@ -9,7 +9,7 @@ class AuthenCoop {
 
     String coopCode = dotenv.env["COOP"].toString();
 
-    if (coopCode.toUpperCase() == "PSUCOOP") {
+    if (coopCode.toUpperCase() == "") {
       return '0001';
     } else {
       return '';
