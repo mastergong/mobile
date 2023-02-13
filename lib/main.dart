@@ -68,7 +68,7 @@ class _PSUCOOPAPPState extends State<PSUCOOPAPP> {
       providers: appBlocProviders,
       child: MaterialApp(
         debugShowCheckedModeBanner: showDebugBanner,
-        title: 'PSUCOOP MOBILE',
+        title: 'MOBILE',
         theme: AppTheme.light,
         themeMode: ThemeMode.light,
         initialRoute: Routes.initialRoute,
